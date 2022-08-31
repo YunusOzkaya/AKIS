@@ -32,7 +32,7 @@
  ## TODO LIST (Yapılacaklar)
   - [x] Kullanıcı Girişi Sayfasının tasarlanması - 03.04.2022
   - [x] Ana Sayfanın tasarlanması-03.04.2022
-  - [x ] İntibak Sayfasının tasarlanması-06.04.2022
+  - [x] İntibak Sayfasının tasarlanması-06.04.2022
     - [x] İntibak kanununun gözden geçirilmesi-05.04.2022
     - [x] Örneklerin incelenmesi-05.04.2022
     - [x] İntibak formüllerinin yazılması-06.04.2022
